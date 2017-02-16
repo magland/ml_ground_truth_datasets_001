@@ -1,0 +1,6 @@
+Put the big raw files here.
+
+At one point at least some of these data were packaged here:
+https://drive.google.com/file/d/0B-fPENNrmSzXR1RNOVozVUZsckk/view?usp=sharing
+
+So, download and extract it into this directory (doesn't matter where)
