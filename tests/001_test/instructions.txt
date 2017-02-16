@@ -1,0 +1,5 @@
+kron-run ms2 m1
+kron-view results ms2 m1
+
+replace ms2 by sc or ks
+replace m1 by m2, m3, m4, m5 or h1

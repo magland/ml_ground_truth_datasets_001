@@ -1,0 +1,7 @@
+m1 ../../datasets/martinez2009/1
+m1b ../../datasets/martinez2009/1b
+m2 ../../datasets/martinez2009/2
+m3 ../../datasets/martinez2009/3
+m4 ../../datasets/martinez2009/4
+m5 ../../datasets/martinez2009/5
+h1 ../../datasets/harris2000
